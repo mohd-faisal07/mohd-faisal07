@@ -1,4 +1,4 @@
-![computer with technology](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fillustrations%2Fcomputer-keyboard-cpu-monitor-5675047%2F&psig=AOvVaw3V_dQn0sWqopw24lbXSXjm&ust=1711620491838000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjRuK2ZlIUDFQAAAAAdAAAAABAE)
+![computer with technology](https://github.com/mohd-faisal07/mohd-faisal07/blob/main/2215011.jpg?raw=true)
 # 💫 About Me:
 👋 Hello, I'm Faisal!<br>🔨 I enjoy tackling challenges and collaborating on innovative projects.<br>💡 Let's connect and build something awesome together! 
 
