@@ -1,5 +1,6 @@
+![computer with technology](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fillustrations%2Fcomputer-keyboard-cpu-monitor-5675047%2F&psig=AOvVaw3V_dQn0sWqopw24lbXSXjm&ust=1711620491838000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjRuK2ZlIUDFQAAAAAdAAAAABAE)
 # 💫 About Me:
-👋 Hello, I'm [Faisal]!<br>🔨 I enjoy tackling challenges and collaborating on innovative projects.<br>💡 Let's connect and build something awesome together! 
+👋 Hello, I'm Faisal!<br>🔨 I enjoy tackling challenges and collaborating on innovative projects.<br>💡 Let's connect and build something awesome together! 
 
 
 ## 🌐 Socials:
@@ -15,4 +16,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mohd-faisal07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
