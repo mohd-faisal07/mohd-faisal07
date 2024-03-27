@@ -1,5 +1,5 @@
 ![computer with technology](https://giphy.com/gifs/tech-technology-mograph-pOEbLRT4SwD35IELiQ)
-<iframe src="https://giphy.com/embed/pOEbLRT4SwD35IELiQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-technology-mograph-pOEbLRT4SwD35IELiQ">via GIPHY</a></p>
+![computer with technology](https://giphy.com/embed/pOEbLRT4SwD35IELiQ)
 # 💫 About Me:
 👋 Hello, I'm Faisal!<br>🔨 I enjoy tackling challenges and collaborating on innovative projects.<br>💡 Let's connect and build something awesome together! 
 
