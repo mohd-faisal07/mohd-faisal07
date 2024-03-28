@@ -5,7 +5,7 @@
 <h2 align="center">Front-End-Developer</h2>
 
 # 💫 About Me:
-👋 Hello, I'm Faisal!<br>🔨 I enjoy tackling challenges and collaborating on innovative projects.<br>💡 Let's connect and build something awesome together! <br>
+🔨 I enjoy tackling challenges and collaborating on innovative projects.<br>💡 Let's connect and build something awesome together! <br>
  ![](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
 
 
