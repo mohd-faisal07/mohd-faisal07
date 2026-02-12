@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=mohd-faisal07&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h1 align="center"> Hi 👋,i'm Mohammed Faisal Ahmed</h1>
-<h2 align="center">Front-End-Developer</h2>
+<h2 align="center">Full-Stack-Developer</h2>
 
 # 💫 About Me:
 🔨 I enjoy tackling challenges and collaborating on innovative projects.<br>💡 Let's connect and build something awesome together! <br>
